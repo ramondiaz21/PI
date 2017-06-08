@@ -1,0 +1,8 @@
+020}isbn
+
+100}autor
+245}titulo
+250}edicion
+260}año
+856}url
+{}

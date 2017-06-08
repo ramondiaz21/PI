@@ -1,0 +1,42 @@
+020}8478085262
+
+100}Charles Morris
+
+245}El principito y la Navidad
+
+250}Editorial Sirio, S.A.
+
+260}2006
+
+856}93
+
+{}
+
+020}9500623013
+
+100}Donald Voet
+
+245}Bioquímica
+
+250}Ed. Médica Panamericana
+
+260}2006
+
+856}1756
+
+{}
+
+020}9500623013
+
+100}Donald Voet
+
+245}Bioquímica
+
+250}Ed. Médica Panamericana
+
+260}2006
+
+856}1756
+
+{}
+

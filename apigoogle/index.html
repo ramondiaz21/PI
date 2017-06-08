@@ -1,0 +1,33 @@
+<html>
+
+<head>
+    <title>Prueba de PHP</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row text-center">
+            <form action="apiGoogle.php" method="post" name="formu" id="formu" onsubmit="return initialize()">
+                <div class="col-sm-3">
+                    <h1> Agregar campos </h1>
+                    <p>
+                        <input placeholder="Titulo" type="text" name="nameBook" id="search" autofocus/>
+                    </p>
+                    <p>
+                        <input placeholder="Autor(es)" type="text" name="authors" id="authors" autofocus />
+                    </p>
+                    <p>
+                        <input placeholder="Editorial" type="text" name="publisher" id="publisher" autofocus/>
+                    </p>
+                    <p>
+                        <input placeholder="ISBN" type="text" name="ID_ISBN" id="ID_ISBN" autofocus/>
+                    </p>
+                    <p>
+                        <input class="submit" id="submit" name="submit" type="submit" value="Buscar"  />
+                    </p>
+                </div>
+            </form>
+        </div>
+</body>
+
+</html>
